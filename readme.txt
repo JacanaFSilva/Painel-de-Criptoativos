@@ -8,4 +8,4 @@ Para executar o projeto, no terminal:
 mvn clean package
 java -jar target\cch-cripto-1.0-SNAPSHOT.jar
 
-Opcionalmente pode ser rodado via executável.
+Executável presente junto do projeto.

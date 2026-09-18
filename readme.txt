@@ -1,4 +1,4 @@
-Projeto instaânciado em:
+Projeto instânciado em:
     JDK 17 - LTS: https://adoptium.net/temurin/releases/?os=any&arch=any&version=17
     Apache Maven: https://maven.apache.org/download.cgi
     IDE - VS Code: https://code.visualstudio.com/download
